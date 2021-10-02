@@ -5,7 +5,11 @@ but this can also helpful for troubleshooting your node if you run into issues.
 
 ### Structure
 
+#### For users
+
+- [Troubleshooting](troubleshooting.md)
+
 #### Developer guides
 
-[Packaging apps for Citadel](developers/building-apps.md)
+- [Packaging apps for Citadel](developers/building-apps.md)
 
