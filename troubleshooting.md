@@ -13,10 +13,6 @@ Issues concerning the primary operations of your node.
 
 Yes! Open a terminal on your computer and enter `ssh umbrel@umbrel.local`. When prompted for your password, enter your dashboard password or `moneyprintergobrrr` if you don't have one yet.
 
-### Is my Raspberry Pi compatible?
-
-If you have a Raspberry Pi with at least 4GB of RAM, you can run Umbrel on it.
-
 ### My node keeps crashing. What can I do to fix the issue?
 
 If you're not using the official power supply, it's probably the power supply.
